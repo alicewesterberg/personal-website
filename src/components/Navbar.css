@@ -1,0 +1,64 @@
+* {
+    margin: 100;
+    padding: 200;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+}
+
+.logo{
+    margin-left: 20pt ;
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+    font-family: 'Palatino', URW Palladio L, serif;
+    font-weight: 550;
+    font-size: 30px;
+    font-variant: small-caps;
+    cursor: pointer;
+}
+ 
+.background {
+    background: rgb(221,208,200);
+    background-blend-mode: lighten;
+    background-size: cover;
+    cursor: default;
+}
+ 
+.footer {
+    background-color: #ddd0c8;
+}
+
+.nav-list {
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.menu{
+    display: flex;
+    margin-left: 250pt;
+}
+ 
+.nav-list li {
+    list-style: none;
+    padding: 26px 30px;
+}
+ 
+.nav-list li a {
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+    font-size: 25px;
+    margin-right: 10pt;
+    font-family: 'Palatino', URW Palladio L, serif;
+}
+ 
+.nav-list li a:hover {
+    color: grey;
+}

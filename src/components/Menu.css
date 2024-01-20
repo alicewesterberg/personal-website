@@ -1,0 +1,33 @@
+* {
+    margin: 100;
+    padding: 200;
+}
+.background {
+    background: rgb(221,208,200);
+    background-blend-mode: lighten;
+    background-size: cover;
+    cursor: default;
+}
+.artmenu{
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+
+.art-list li{
+    list-style: none;
+    margin-left: 10pt;
+    text-decoration: none;
+    font-family: 'Palatino', URW Palladio L, serif;
+}
+.art-list li b{
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+    font-size: 18px;
+    margin-right: 20pt;
+    font-family: 'Palatino', URW Palladio L, serif;
+}
+
+.art-list li b:hover{
+    font-size: 20px;
+}
