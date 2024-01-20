@@ -2,16 +2,12 @@
     margin: 100;
     padding: 200;
 }
-.background {
-    background: rgb(221,208,200);
-    background-blend-mode: lighten;
-    background-size: cover;
-    cursor: default;
-}
+
 .artmenu{
     display: flex;
     position: sticky;
     top: 0;
+    height: 30pt;
 }
 
 .art-list li{

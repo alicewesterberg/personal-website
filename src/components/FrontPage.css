@@ -10,31 +10,29 @@
 }
 
 .frontpage{
-    
-    size: 10000px;
+    width: 100%;
+    height: 500pt;
 }
 
 .btn-dmr{
+    list-style-type: none;
     margin-left: 1000px;
     margin-top: 100px;
     width: 150pt;
     height: 60pt;
-    display: flex;
     align-items: center;
     font-family: inherit;
     font-weight: 500;
     font-size: 20px;
     padding: 0.8em 1.5em 0.8em 1.2em;
     color: white;
-    background: #7753ad;
-    background: linear-gradient(0deg, rgba(50,50,50,1) 0%, rgba(51,51,51,1) 100%);
+    background: rgb(50,50,50);
     border: none;
     box-shadow: 0 0.7em 1.5em -0.5em #313131be;
     letter-spacing: 0.05em;
     border-radius: 20em;
     cursor: pointer;
 }
-
 .btn-dmr:hover {
     box-shadow: 0 0.5em 1.5em -0.5em #ffffffbe;
   }
@@ -52,6 +50,8 @@
 }
 
 .btn {
+    list-style-type: none;
     color: #fff;
     background-color: rgb(50, 50, 50);
+    list-style: none;
 }
