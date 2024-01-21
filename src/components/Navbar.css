@@ -1,6 +1,6 @@
 * {
-    margin: 100;
-    padding: 200;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar {
@@ -9,10 +9,11 @@
     justify-content: center;
     position: sticky;
     top: 0;
+    height: 90pt;
 }
 
 .logo{
-    margin-left: 20pt ;
+    margin-left: 30pt ;
     text-decoration: none;
     color: rgb(50, 50, 50);
     font-family: 'Palatino', URW Palladio L, serif;
@@ -43,7 +44,7 @@
 
 .menu{
     display: flex;
-    margin-left: 250pt;
+    margin-left: 350pt;
 }
  
 .nav-list li {

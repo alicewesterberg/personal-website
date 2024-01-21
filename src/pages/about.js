@@ -1,12 +1,12 @@
 
 import React from "react";
+import Aboutme from "../components/Aboutme";
+
  
 const About = () => {
     return (
         <div>
-            <h1>
-                HELLLLOOOO
-            </h1>
+            <Aboutme/>
         </div>
     );
 };

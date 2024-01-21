@@ -1,27 +1,17 @@
 * {
-    margin: 100;
-    padding: 200;
+    margin: 0;
+    padding: 0;
 }
 .background {
     background: rgb(221,208,200);
     background-blend-mode: lighten;
-    background-size: cover;
     cursor: default;
 }
 
 .frontpage{
     width: 100%;
-    height: 500pt;
+    height: auto;
 }
-
-.bildspel{
-    margin-left: 500pt;
-}
-
-img{
-    height: 500px;
-    width: auto;
-  }
 .btn-dmr{
     list-style-type: none;
     margin-left: 100px;

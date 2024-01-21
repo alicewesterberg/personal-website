@@ -3,9 +3,17 @@
     padding: 200;
 }
 
+.footer{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
 .text-footer {
     text-align: center;
-    padding: 30px 0;
+    padding: 20px 0;
     font-family: "Ubuntu", sans-serif;
     display: flex;
     justify-content: center;

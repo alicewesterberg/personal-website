@@ -7,19 +7,19 @@ function Menu() {
         <ul class="art-list">
             <div class="artmenu">
                 <li>
-                    <b href="/paintings">Paintings</b>
+                    <a href="/paintings">Paintings</a>
                 </li>
                   <li>
-                    <b href="/photography">Photography</b>
+                    <a href="/photography">Photography</a>
                   </li>
                   <li>
-                    <b href="/clothes">Clothes</b>
+                    <a href="/clothes">Clothes</a>
                   </li>
                   <li>
-                    <b href="/knits">Knits</b>
+                    <a href="/knits">Knits</a>
                   </li>
                   <li>
-                    <b href="/crafts">Crafts</b>
+                    <a href="/crafts">Crafts</a>
                   </li>
                 </div>
               </ul>

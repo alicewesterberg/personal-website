@@ -1,0 +1,18 @@
+.text{
+    height: 100pt;
+    width: 300pt;
+    margin-left: -200pt;
+}
+.bild{
+    margin-right: 50pt;
+    margin-left: 50pt;
+    opacity: 30%;
+}
+
+img{
+    height: 400px;
+    width: auto;
+  }
+.bild:hover{
+    opacity: 100%;
+}
