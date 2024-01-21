@@ -14,9 +14,17 @@
     height: 500pt;
 }
 
+.bildspel{
+    margin-left: 500pt;
+}
+
+img{
+    height: 500px;
+    width: auto;
+  }
 .btn-dmr{
     list-style-type: none;
-    margin-left: 1000px;
+    margin-left: 100px;
     margin-top: 100px;
     width: 150pt;
     height: 60pt;
@@ -55,3 +63,5 @@
     background-color: rgb(50, 50, 50);
     list-style: none;
 }
+
+
